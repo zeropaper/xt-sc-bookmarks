@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "xt-sc-bookmarks",
+  "version": "1.0.1",
+  "description": "A repository to hold exercise screenshots for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeropaper/xt-sc-bookmarks.git"
+  },
+  "keywords": [
+    "exercise",
+    "verification"
+  ],
+  "author": "Valentin Vago <zeropaper@irata.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeropaper/xt-sc-bookmarks/issues"
+  },
+  "homepage": "https://github.com/zeropaper/xt-sc-bookmarks#readme",
+  "dependencies": {
+    "node-resemble-v2": "^1.0.0"
+  }
+}
